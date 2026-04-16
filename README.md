@@ -35,3 +35,11 @@ https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fx-fire-ii-2
 https://assetstore.unity.com/packages/vfx/particles/legacy-particle-pack-73777 
 
 https://assetstore.unity.com/packages/tools/integration/meta-avatars-sdk-sample-assets-272863 
+
+https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
+
+https://assetstore.unity.com/packages/3d/environments/rope-bridge-3d-222563
+
+Volcano: https://sketchfab.com/3d-models/free-volcano-low-poly-516e0bd4e78d4f5caed3f00f056e2e3a
+
+https://polyhaven.com/a/weathered_planks
