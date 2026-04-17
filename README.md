@@ -43,3 +43,5 @@ https://assetstore.unity.com/packages/3d/environments/rope-bridge-3d-222563
 Volcano: https://sketchfab.com/3d-models/free-volcano-low-poly-516e0bd4e78d4f5caed3f00f056e2e3a
 
 https://polyhaven.com/a/weathered_planks
+
+https://polyhaven.com/a/snow_floor
