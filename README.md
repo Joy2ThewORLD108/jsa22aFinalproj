@@ -55,3 +55,15 @@ https://assetstore.unity.com/packages/3d/true-horror-clown-pbr-49389
 https://polyhaven.com/a/baseball_01
 
 https://assetstore.unity.com/packages/3d/props/basketballring-297800
+
+https://polyhaven.com/a/wooden_stool_01
+
+https://polyhaven.com/a/GothicBed_01
+
+https://polyhaven.com/a/Television_01
+
+https://polyhaven.com/a/food_apple_01
+
+https://polyhaven.com/a/lemon
+
+https://polyhaven.com/a/food_pears_asian_01
