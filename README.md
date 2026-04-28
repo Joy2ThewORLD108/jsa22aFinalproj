@@ -45,3 +45,9 @@ Volcano: https://sketchfab.com/3d-models/free-volcano-low-poly-516e0bd4e78d4f5ca
 https://polyhaven.com/a/weathered_planks
 
 https://polyhaven.com/a/snow_floor
+
+https://polyhaven.com/a/dirty_football
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+
+https://assetstore.unity.com/packages/3d/true-horror-clown-pbr-49389
