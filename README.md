@@ -78,6 +78,8 @@ https://polyhaven.com/a/GreenChair_01
 
 https://polyhaven.com/a/street_rat
 
+https://sketchfab.com/3d-models/free-volcanos-low-poly-game-ready-563d960c7d924ffa9a488f9f0aa6ca7b
+
 VR Final Project:
 
 - My game has two themes. one is snow and the other is Volcano and Lava. Within the Volcano theme, you have to go into the house and collect all the fruits. Once you have picked up a fruit, you had to take it to the main table basket. In the Snow theme, you have to pick up either the basket ball or baseball and throw them. Also, its snowingggggg.
