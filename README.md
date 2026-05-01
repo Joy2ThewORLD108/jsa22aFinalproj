@@ -8,11 +8,7 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967
 
 https://assetstore.unity.com/packages/3d/environments/landscapes/free-snow-mountain-63002 
 
-Sound effects: https://assetstore.unity.com/packages/audio/sound-fx/free-cinematic-sound-effects-224972 
-
 https://assetstore.unity.com/packages/3d/environments/fantasy/lowpoly-winterpack-lite-352926#content 
-
- 
 
 https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-textures-rpg-environment-204187 
 
@@ -67,3 +63,17 @@ https://polyhaven.com/a/food_apple_01
 https://polyhaven.com/a/lemon
 
 https://polyhaven.com/a/food_pears_asian_01
+
+https://polyhaven.com/a/gothic_coffee_table
+
+https://polyhaven.com/a/wooden_bowl_02
+
+https://polyhaven.com/a/large_castle_door
+
+https://polyhaven.com/a/large_castle_door
+
+https://polyhaven.com/a/fancy_picture_frame_01
+
+https://polyhaven.com/a/GreenChair_01
+
+https://polyhaven.com/a/street_rat
